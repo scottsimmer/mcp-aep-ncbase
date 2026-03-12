@@ -1,6 +1,10 @@
 # MCP Adobe Experience Platform Server
 
-This is a Node.js server that provides a comprehensive API interface for Adobe Experience Platform (AEP) integration. It supports various AEP functionalities including schemas, datasets, segments, profiles, and more.
+This Node.js server provides an API for integrating AI development and QA environments with Adobe Experience Platform (AEP), supporting key functions like schemas, datasets, segments, profiles, and beyond.
+
+Future functionality
+- Audience APIs
+- AJO journey API
 
 ## Features
 
